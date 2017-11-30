@@ -1,0 +1,6 @@
+ul#Resources {
+	list-style-type: none;
+}
+ul#Resources li {
+	display: inline;
+}
